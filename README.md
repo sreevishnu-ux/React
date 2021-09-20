@@ -1,3 +1,6 @@
+# Description
+This is a small cart app made using react which allows you to add,remove or delete products in your cart.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
